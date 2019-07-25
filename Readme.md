@@ -1,7 +1,8 @@
-Meu primeiro sistema no GIT
+Meu primeiro sistema no GIT Hub
 
-Alteração no readme para descrever melhor
+Novas alterações por vir.
 
 
 
-fito no master
+
+
